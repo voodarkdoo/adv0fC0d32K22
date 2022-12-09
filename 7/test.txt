@@ -1,0 +1,16 @@
+$ cd /
+$ ls
+dir 1
+1 jrfpjdpw.znd
+dir 2
+1 qtwnndbg.rsh
+1 sjc.mvn
+1 wmtvbq
+$ cd 1
+$ ls
+1000 czgnjmw
+$ cd ..
+$ cd 2
+$ ls 
+333 djlfhg
+333 asdlkgj
